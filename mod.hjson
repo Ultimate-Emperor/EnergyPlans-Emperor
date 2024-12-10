@@ -1,0 +1,17 @@
+displayName: "EnergyPlan"
+
+name: "Energy-Plan"
+
+author: "Emperor"
+
+main: "energyplan.Main"
+
+description: "mod alpha"
+
+version: v1.0.0
+
+minGameVersion: 140
+
+java: true
+
+hidden: true
